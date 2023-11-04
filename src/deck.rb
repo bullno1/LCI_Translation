@@ -23,8 +23,17 @@ data = Squib.csv file: 'data/set1.csv' do |header, value|
   case header
   when 'text'
     value.gsub! '\n', "\n"
+
     # Keywords
-    value.gsub! /<<([A-Z]+)>>/, "<span size='small' weight='bold'>\\1</span>"
+    value.gsub! /<<([A-Z]+)>>/ do |s|
+      keyword = $1
+      if keyword === "QUICK"
+        "<span size='small' foreground='black' background='#cbac30'> #{keyword} </span>"
+      else
+        "<span size='small' weight='bold'>#{keyword}</span>"
+      end
+    end
+
     # Ability
     value.gsub! /\[([A-Z]+)\]/ do |s|
       name = $1

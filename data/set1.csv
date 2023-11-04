@@ -181,9 +181,9 @@ id,title,type,text
 1-169,"Izuruha, the Guardian of Emperor",{E} UNIT,<<AURA>>\n[ENT] Destroy one enemy exhaustd unit.\n[CB] Draw one card.
 1-170,"Sa'’ala, the Blue Dracomancer",{E} UNIT,"[ATK] This gains +1/+1 for each of your Clayta token.\n[AUTO] Whenever this unit deals damage to an opponent, put two Clayta token into the battlefield."
 1-171,"Noza Sula, the Polar Wind",{E} UNIT,[CONT] Your [CB] triggers twice.\n[CB] Put one card in your grave with [CB] into your hand.
-1-172,"Mishuka, the Commander of Ice",{E} UNIT,[CONT] Cards in your hand gain [QUICK].
+1-172,"Mishuka, the Commander of Ice",{E} UNIT,[CONT] Cards in your hand gain <<QUICK>>.
 1-173,"Karna, the Beautiful Swordmaster",{E} UNIT,<<AURA>>\n[CONT] Your other units with <<AURA>> gain +1/+1.\n[CB] Put one unit card in your grave with <<AURA>> into your hand.
-1-174,"Yuen, the Spellcaster of Moon",{E} UNIT,"[AUTO] Whenever your unit with [QUICK] is put into the battlefield in your main phase, exhaust an enemy unit.\n[CB] Put one unit card in your grave with [QUICK] into your hand."
+1-174,"Yuen, the Spellcaster of Moon",{E} UNIT,"[AUTO] Whenever your unit with <<QUICK>> is put into the battlefield in your main phase, exhaust an enemy unit.\n[CB] Put one unit card in your grave with <<QUICK>> into your hand."
 1-175,"En Ha, the Oracle of Waves",{E} UNIT,"[ENT]: You may put one card in your CA zone onto top of your deck. If you do, chronocheck 1.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color."
 1-176,"Famm, the Long-Eared Illusionist",{E} UNIT,<<AURA>>\n[ENT] Put one Clayta token into the battlefield.\n[ACT][(0)] One Clayta token gains +5/+5. This ability can be played only in your main phase and once per turn.
 1-177,"Gustalf, the Lord of Ice Realm",{E} UNIT,<<HASTE>> (This can attack in the turn that comes into the battlefield.)\n<<AURA>> (Unit with <<AURA>> cannot be blocked by a unit without <<AURA>>.)
