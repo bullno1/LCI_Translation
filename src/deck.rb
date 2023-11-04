@@ -59,6 +59,13 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
 
   text str: data['text'], layout: "text" do |embed|
     embed.png key: "{L}", file: "images/legacy.png", dy: -20, width: 28
+    embed.png key: "{E}", file: "images/epic.png", dy: -20, width: 25
+    embed.png key: "{N}", file: "images/normal.png", dy: -20, width: 18
+    embed.png key: "(W)", file: "images/white.png", dy: -20, width: 20
+    embed.png key: "(P)", file: "images/purple.png", dy: -20, width: 20
+    embed.png key: "(R)", file: "images/orange.png", dy: -20, width: 20
+    embed.png key: "(B)", file: "images/black.png", dy: -20, width: 20
+    embed.png key: "(U)", file: "images/white.png", dy: -20, width: 20
   end
 
   # Carve out space for atk and def
