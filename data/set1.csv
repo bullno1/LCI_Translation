@@ -2,7 +2,7 @@ id,title,type,text
 1-001,"La=Zuh, the Light Dragonlord",{L} UNIT,"[ENT] Destroy all enemy units.
 
 [CB] Put this into your hand."
-1-002,"Zelbal, the Greatwing of Dune",{L} UNIT,"<<BRAVERY>> <<VIGOR>> <<AURA>>
+1-002,"Zelbal, the Greatwing of Dune",{L} UNIT,"<<BRAVERY>>, <<VIGOR>>, <<AURA>>
 
 [CB] Your units gain +2/+2 and <<BRAVERY>>."
 1-003,"Asuha, the Dawn Mechlord",{L} UNIT,"<<BRAVERY>>
@@ -10,14 +10,29 @@ id,title,type,text
 [RETREAT] You may put this onto your chronoglyph as a bookmark.
 
 [BOOKMARK] Your white units gain +2/+2."
-1-004,King Arthur,{E} UNIT,"<<AURA>>\n[AUTO] Whenever this unit deals damage to an opponent, chronocheck 1."
-1-005,Athena,{E} UNIT,<<BRAVERY>>\n[ATK] This gains +1/+1 for each of CA 3 card in your CA zone.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color.
-1-006,Gawain,{E} UNIT,"<<BRAVERY>> (This attacks without exhausting itself.)\n<<VIGOR>> (Whenever this deals attacking damage, you gain that much life.)"
-1-007,"Nillves, the Evil Light",{E} UNIT,The cost to play this card becomes (0) if you put two or more {N} units into the battlefield this turn.\n<<BRAVERY>>\n[CB] Put one Knight token into the battlefield.
-1-008,"Shessna, the Divine Strategist",{E} UNIT,"[ENT] <<JUDGE>>: Chronocheck 1.\n[AUTO] Whenever a card is put into your grave by <<JUDGE>>, you may put the card to the top of your deck."
-1-009,"Celeneca, the Sacred Seeker",{E} UNIT,"[AUTO] Whenever your another nontoken white unit enters the battlefield, you gain 2 life.\n[ATK] If your life is 20 or more, your units gain +1/+1."
-1-010,"Esharote, the Moon Muse",{E} UNIT,[DEV] Put one non-{L} white unit card in your grave into the battlefield .
-1-011,"Toh=Ah, the Leading Archangel",{E} UNIT,<<BRAVERY>> (This attacks without exhausting itself.)\n[ATK] <<JUDGE>>: This gains +2/+2.
+1-004,King Arthur,{E} UNIT,"<<AURA>>
+
+[AUTO] Whenever this unit deals damage to an opponent, Chronocheck 1."
+1-005,Athena,{E} UNIT,"<<BRAVERY>>
+
+[ATK] This gains +1/+1 for each card in your CA zone with a CA value of 3.
+[DRAFT] [CHRONOFORM] The next 4 cards you pick share the same color."
+1-006,Gawain,{E} UNIT,"<<BRAVERY>>, <<VIGOR>>"
+1-007,"Nillves, the Evil Light",{E} UNIT,"The cost to play this card becomes (0) if you put 2 or more {N} units into the battlefield this turn.
+
+<<BRAVERY>>
+
+[CB] Put one Knight token into the battlefield."
+1-008,"Shessna, the Divine Strategist",{E} UNIT,"[ENT] <<JUDGE>>: Chronocheck 1.
+
+[AUTO] Whenever a card is put into your discard pile by <<JUDGE>>, you may put that card to the top of your deck."
+1-009,"Celeneca, the Sacred Seeker",{E} UNIT,"[AUTO] Whenever another non-token white unit of yours enters the battlefield, you gain 2 life.
+
+[ATK] If your life is 20 or more, your units gain +1/+1."
+1-010,"Esharote, the Moon Muse",{E} UNIT,[DEV] Put one non-{L} white unit card in your discard pile into the battlefield.
+1-011,"Toh=Ah, the Leading Archangel",{E} UNIT,"<<BRAVERY>>
+
+[ATK] <<JUDGE>>: This gains +2/+2."
 1-012,"Laharn, the Thousand Swords.",{E} UNIT,[ENT]［SYNC (W)(W)]::Put two Knight tokens into the battlefield.
 1-013,"Neleoza, the Angel of Requiem",{E} UNIT,[DEV] You may put up to two {N} units in your grave into your hand.
 1-014,"Shadaz Adom, the Mech Soldier",{E} UNIT,"[DEV] This gains +4/+0, <<BRAVERY>> and <<AURA>>."
