@@ -1,0 +1,225 @@
+id,title,type,text
+1-001,"La=Zuh, the Light Dragonlord",{L} UNIT,"[ENT] Destroy all enemy units.
+
+[CB] Put this into your hand."
+1-002,"Zelbal, the Greatwing of Dune",{L} UNIT,"<<BRAVERY>> <<VIGOR>> <<AURA>>
+
+[CB] Your units gain +2/+2 and <<BRAVERY>>."
+1-003,"Asuha, the Dawn Mechlord",{L} UNIT,"<<BRAVERY>>
+
+[RETREAT] You may put this onto your chronoglyph as a bookmark.
+
+[BOOKMARK] Your white units gain +2/+2."
+1-004,King Arthur,{E} UNIT,"<<AURA>>\n[AUTO] Whenever this unit deals damage to an opponent, chronocheck 1."
+1-005,Athena,{E} UNIT,<<BRAVERY>>\n[ATK] This gains +1/+1 for each of CA 3 card in your CA zone.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color.
+1-006,Gawain,{E} UNIT,"<<BRAVERY>> (This attacks without exhausting itself.)\n<<VIGOR>> (Whenever this deals attacking damage, you gain that much life.)"
+1-007,"Nillves, the Evil Light",{E} UNIT,The cost to play this card becomes (0) if you put two or more {N} units into the battlefield this turn.\n<<BRAVERY>>\n[CB] Put one Knight token into the battlefield.
+1-008,"Shessna, the Divine Strategist",{E} UNIT,"[ENT] <<JUDGE>>: Chronocheck 1.\n[AUTO] Whenever a card is put into your grave by <<JUDGE>>, you may put the card to the top of your deck."
+1-009,"Celeneca, the Sacred Seeker",{E} UNIT,"[AUTO] Whenever your another nontoken white unit enters the battlefield, you gain 2 life.\n[ATK] If your life is 20 or more, your units gain +1/+1."
+1-010,"Esharote, the Moon Muse",{E} UNIT,[DEV] Put one non-{L} white unit card in your grave into the battlefield .
+1-011,"Toh=Ah, the Leading Archangel",{E} UNIT,<<BRAVERY>> (This attacks without exhausting itself.)\n[ATK] <<JUDGE>>: This gains +2/+2.
+1-012,"Laharn, the Thousand Swords.",{E} UNIT,[ENT]［SYNC (W)(W)]::Put two Knight tokens into the battlefield.
+1-013,"Neleoza, the Angel of Requiem",{E} UNIT,[DEV] You may put up to two {N} units in your grave into your hand.
+1-014,"Shadaz Adom, the Mech Soldier",{E} UNIT,"[DEV] This gains +4/+0, <<BRAVERY>> and <<AURA>>."
+1-015,"Lahn, the Angel of Might",{E} UNIT,<<BRAVERY>> (This attacks without exhausting itself.)\n[ENT} [SYNC (W)]: You gain 3 life. Draw one card.
+1-016,"Thylis Luria, the Star General",{E} UNIT,"<<BRAVERY>>\n[AUTO] Whenever this card is put into your grave from non-the battlefield zone, you may put this into the battlefield exhaustd."
+1-017,"Lennet, The Knight Commander",{E} UNIT,<<BRAVERY>>\n[CONT] Your other units with <<BRAVERY>> gain +1/+1.\n[CB] Put one unit card with <<BRAVERY>> in your grave into your hand.
+1-018,Famnus. The Grand Pope,{E} UNIT,"<<VIGOR>> <<AURA>>\n[AURA] Whenever you gain life, choose one;\n* Put one Knight token into the battlefield.\n* Your units gain +2/+2."
+1-019,"Dooth, the Hundred Sords",{E} UNIT,[ENT] Your units gain +1/+1 and <<BRAVERY>>.\n[CB] Put one Knight token into the battlefield.
+1-020,Yamatotakeru,{E} UNIT,[CONT] This cannot be chosen by enemy spells and/or abilities.
+1-021,"Jin=Eh, the Grand Carpenter",{E} UNIT,<<BRAVERY>>\n[ENT] You may trigger a [DEV] ability of your unit.\n[CB] You may trigger a [DEV] ability.of your unit.
+1-022,Holy Enchanter of Abissa,{N} UNIT,"[ENT] Activate up to 2 units.
+
+[CB] <<JUDGE>>: Draw 1 card."
+1-023,Angel of Knighthood,{N} UNIT,[ENT] <<JUDGE>>： Draw one card.
+1-024,Illuminated Cavalry,{N} UNIT,<<BRAVERY>> (This attacks without exhausting itself.)
+1-025,Faithful Guardian,{N} UNIT,[ENT] One unit gains +0/+3.\n[CB] <<JUDGE>>： Draw one card.
+1-026,Sand Sentry of Zerba,{N} UNIT,"<<BRAVERY>>\n[ATK] If you have another unit with <<BRAVERY>>, this gains +3/+3."
+1-027,Fountain Guard of Tagmar,{N} UNIT,"[DRAFT] At the beginning of the game, you may put this onto your chronoglyph as a bookmark. (You may have up to one bookmark on your chronoglyph.)\n[BOOKMARK] You begin the game with 25 life. (If this is removed from chronoglyph, your life limit becomes 20 and you lose any excess.)"
+1-028,Shining Twin Sword,{N} UNIT,[ENT] Put one Knight token into the battlefield.\n[CB] Put one Knight token into the battlefield.
+1-029,Blessing Sunlight,{L} SPELL,"Up to three units gain +4/+4, <<BRAVERY>> and <<VIGOR>>.\n[CB] Put this into your hand."
+1-030,Return Alive,{L} SPELL,Put up to two unit cards in your grave into your hand.\n[CB] Put one unit card in your grave into your hand.
+1-031,Binding Seal,{L} SPELL,Destroy an attacking unit.\n<<JUDGE>>： Draw one card.
+1-032,Disaster of Dragonlord,{L} SPELL,Destroy all units.
+1-033,Healing Light,{E} SPELL,You gain 5 life. Draw two cards.\n[CB] You gain 5 life.
+1-034,Council of Shaddas,{E} SPELL,"Choose one; [SYNC (W)]: Instead, choose up to two.\n* Put two Knight tokens into the battlefield.\n* Chronocheck 1.\n* You gain 7 life.\n* Draw one card."
+1-035,Tyldana Catapult,{E} SPELL,Destroy al unit with 6 or more ATK.\n[CB] Destroy one unit if your life is less than one of your opponents.
+1-036,Levitating Garden of Teba,{E} SPELL,<<MILESTONE>>\nChronocheck 1.\n<<JUDGE>>: Chronocheck 1.
+1-037,Miracle of Ascendant,{E} SPELL,Put an enemy unit to the bottom of its owner’s deck. That player Chronochecks 1 or draws one card.
+1-038,Omen of Blessing,{N} SPELL,Prevent all damage an enemy unit deals.
+1-039,Grueling Resistance,{N} SPELL,A blocking unit gains +4/+4 and activate it.
+1-040,Trained March,{N} SPELL,Your units gain +1/+1.\n<<JUDGE>>: Your units gain +0/+1 and <<BRAVERY>>.
+1-041,"Almyle, the Fate of Gold",{L} UNIT,"<<BREACH>>\n[AUTO] Whenever your another orange unit enters the battlefield, this gains +2/+2."
+1-042,"Megni, the Worrior Queen",{L} UNIT,<<BRAVERY>> <<BREACH>> <<HASTE>>\n[ENT] Choose one unit. It blocks this unit if able.\n[CB] One of your unit gains +3/+3a and cannot be chosen by enemy spells and/or abilities.
+1-043,"Belka, the Lord of the Fist",{L} UNIT,<<MILESTONE>>\n[ENT] Put an enemy unit into its owners CA zone.\n[CB] Put this into your hand.
+1-044,"Teto, the Shaman of Eagle",{E} UNIT,[ENT] [SYNC (R)]: You may put one card in your CA zone into your hand.
+1-045,"Vulcanus, the Bloody Berserker",{E} UNIT,<<BREACH>>\n[CONT] Your CA cost to advance and CA cost on each of your card increase 2.\n[CB] Put this into the battlefield.
+1-046,"Belka, the Lady of the Fist",{E} UNIT,[ENT] Put an enemy unit into its owners CA zone.
+1-047,Sun Wukong,{E} UNIT,"<<BRAVERY>>\n[RETREAT] You may discard any number of cards in your CA zone with 4 or more total CA. If you do, put this into the battlefield exhaustd."
+1-048,"Swald, the Worrior of the Sun",{E} UNIT,"[AUTO] Whenever this unit deals damage to an opponent, You may put one card in your CA zone into your hand.\n[CB] Put this into the battlefield."
+1-049,"Yawra, the Wolf Rider",{E} UNIT,"<<BREACH>> (When this deals attacking damage to one unit, it deals any excess damage to the opponent.)\n<<HASTE>> (This can attack in the turn that comes into the battlefield.)"
+1-050,"Karleen, the Blade Dancer",{E} UNIT,[ENT] One of your unit gains +4/+4.\n[CB] Put this into the battlefield.
+1-051,"Yonaty, the Oracle of the Forest",{E} UNIT,"[ENT] Chronocheck 1. If a unit card is put into your CA zone in this way, draw one card.\n[ACT] [(1)]: Put one unit card in your CA zone into your hand."
+1-052,"Celty, the Princess of the Forest",{E} UNIT,[ENT] Put non-{L} unit card in your CA zone into the battlefield exhaustd.
+1-053,"Nene, the Flosomancer",{E} UNIT,[ACT] Put one card in your CA zone into your grave: Activate your chronoglyph. This ability can be played only in your main phase and once per turn.\n[CB] Put this into the battlefield.
+1-054,"Gamradu, the Raging Beast.",{E} UNIT,The cost to play this card becomes (0) if you attacked with two or more units this turn.\n[ENT] Destroy an enemy non-{L} unit with <<AURA>>.
+1-055,"Rono Gadar, the Bloodlust Alpha",{E} UNIT,"[RETREAT] You may put this onto your chronoglyph as a bookmark.\n[BOOKMARK] Whenever your unit attacks, it gains +1/+1."
+1-056,"Ayzia, the Heaven Warrior",{E} UNIT,<<BREACH>>\n[CONT] Your other units with <<BREACH>> gain +1/+1.\n[CB] Put one unit card in your grave with <<BREACH>> into your hand.
+1-057,"Galba Belga, the Fighting Beast",{E} UNIT,<<BREACH>>\n[ENT] [SYNC (R)(R)]: You may destroy one unit with ATK less than this unit.
+1-058,Heracles,{E} UNIT,"<<BREACH>> (When this deals attacking damage to one unit, it deals any excess damage to the opponent.)"
+1-059,"Maleeya, the Commander of Beasts",{E} UNIT,"<<BREACH>>\n[ATK] If you have another token unit, this gains +2/+2.\n[ENT] <<JUDGE>> Put one Bear token into the battlefield."
+1-060,"Diarney, the Night Mist Princess",{E} UNIT,[ENT} [SYNC (W)]: You gain 5 life.\n[SYNC (R)]: Put one Bear token into the battlefield.\n[SYNC (P)]: This deals 4 damage to one unit.\n[SYNC (B)]: This deals 3 damage to an opponent.\n[SYNC (U)]: Draw one card.
+1-061,"Shackt, the Channeling Oracle",{E} UNIT,"[AUTO] Whenever your another unit enters the battlefield, you may exhaust this unit if it’s activated. If you do, Draw one card.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color."
+1-062,Crimson Dragon Swarm,{N} UNIT,"<<BREACH>>\n[ATK] If you have another unit with <<BREACH>>, put one Bear token into the battlefield."
+1-063,Master of the Fist,{N} UNIT,[ENT] One unit gains +1/+1.\n[CB] Draw one card.
+1-064,Honey Thief,{N} UNIT,"[DRAFT] At the beginning of the game, you may put this onto your chronoglyph as a bookmark. (You may have up to one bookmark on your chronoglyph.)\n[BOOKMARK] Whenever this unit deals damage to an opponent, You may sacrifce this bookmark. If you do, put one Bear token into the battlefield."
+1-065,Crimson Army Phalanx,{N} UNIT,"<<BREACH>>\n[ATK]: You may put one card in your CA zone into your grave. If you do, this gains +2/+0."
+1-066,Sorceress of Soul Stones,{N} UNIT,"<<MILESTONE>> (If you would put a unit with <<MILESTONE>> in the battlefield to a grave, put it into owner’s CA zone instead.)"
+1-067,Gem Gnawer,{N} UNIT,<<MILESTONE>>\n[CONT] Cards in your CA zone have every colors ((W)(R)(P)(B)(U)).
+1-068,Princess of Wild Roses,{N} UNIT,[ENT] This deals 5 damage to one unit with <<AURA>>.\n[CB] Draw one card.
+1-069,Big Fang Bite,{L} SPELL,[ENT] Choose one of your unit. Destroy an enemy unit with lower ATK than that.\n[CB] Destroy one unit if number of cards in your CA zone is lower than an oppponent’s.
+1-070,Ritual of Earth Spirit,{L} SPELL,Put three Bear tokens into the battlefield.\n[CB] Put one Bear token into the battlefield.
+1-071,Rousing Sunlight,{L} SPELL,One unit gains +7/+7 and <<BLEACH>>.\n[CB] Put this into your hand.
+1-072,Lore of Courage,{L} SPELL,One unit gains +4/+4 and cannot be chosen by enemy spells and/or abilities.\n[CB] Put one non-{L} unit card in your hand into the battlefield.
+1-073,Dawn to the Golden World,{E} SPELL,"Reveal the top three cards of your deck. You may put non-{L} unit card among them into the battlefield exhaustd. Put the rest into your grave. If the unit put into the battlefield has <<BREACH>>, draw one card."
+1-074,Banish the Aura,{E} SPELL,Choose one;\n* Destroy one unit with <<AURA>>.\n* Draw two cards.
+1-075,Council of Orbaran,{E} SPELL,"Choose one; [SYNC (R)]: Instead, choose up to two.\n* This deals 5 damage to one unit with <<AURA>>.\n* Put one card in your CA zone into your hand.\n* One unit gains +3/+3.\n* Draw one card."
+1-076,Ancient Spirit Gate,{E} SPELL,<<MILESTONE>>\nPut non-{L} unit card in your CA zone into the battlefield.
+1-077,Bury into a mound,{E} SPELL,Put one unit into its owners CA zone.
+1-078,Might of Giant,{N} SPELL,One unit gains +3/+3.
+1-079,Mystical Power,{N} SPELL,"One unit gains +2/+2. If it’s a {N} unit, it gains additional +2/+2.\n[CB] One unit gains <<BLEACH>>."
+1-080,Imagination,{N} SPELL,Put one card in your CA zone into your hand.\n[CB] Put this into your hand.
+1-081,"Mireika, the Horn of Fire",{L} UNIT,<<HASTE>>\n[ATK] Your other (P) units gain +1/+1.
+1-082,"Rikugo, the Purple Flame",{L} UNIT,[CONT] Your other cards deal one additional damage to opponents and/or enemy units.\n[CB] This deals 4 damage to each of enemy units.
+1-083,"Yels, the Thunder Cavalry",{L} UNIT,<<BREACH>> <<HASTE>>\n[ENT] This deals 5 damage to an opponent or one unit.\n[CB] Put this into your hand.
+1-084,"Thea, the Dragon Princess",{E} UNIT,"<<HASTE>>\n[ATK] If you have another CA1 unit, this gains +2/+0 and <<AURA>>.\n[CB] Put one Dragon token into the battlefield."
+1-085,"Kagari, the Oracle of Flames",{E} UNIT,[DEV] This deals 3 damage to each of enemy units.
+1-086,Odin,{E} UNIT,"<<HASTE>>\n[AUTO] At the beginning of each turn, return this unit to owner’s hand.\n[ENT] [SYNC (P)(P)] This deals 4 damage to an enemy unit.\n[CB] Put this into the battlefield."
+1-087,"Og Signis, the Storm Beast",{E} UNIT,The cost to play this card becomes (0) if you have played two or more spells this turn.\n<<HASTE>>\n[CB] Put one spell card in your grave into your hand.
+1-088,"Yaksh, the One Who Stake All",{E} UNIT,[ENT] This deals 5 damage to one unit.\n[CONT] The card revealed by <<JUDGE>> has +1 CA.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color.
+1-089,"Floosht, the Lightning General",{E} UNIT,<<BRAVERY>>\n[CONT] This can attack twice each turn.\n[CB] Draw one card.
+1-090,"Tyell, the Champion of Dragon",{E} UNIT,[ENT] Put one Dragon token into the battlefield.\n[CONT] Your Dragon units gain +0/+1.\n[CB] Put one Dragon token into the battlefield.
+1-091,"Vana Zue, the Guardian of Volcano",{E} UNIT,"[AUTO] Whenever you play a spell, this gains +2/+2.\n[CB] Put one spell card in your grave into your hand."
+1-092,"Fappina, the Spirit Flamemancer",{E} UNIT,[RETREAT] This deals 5 damage to an enemy unit.
+1-093,Zenobia,{E} UNIT,"<<HASTE>>
+[CONT] Your other units with <<HASTE>> gain +1/+1.\n[CB] Put one unit card in your grave with <<HASTE>> into your hand."
+1-094,"Ginka, the Versatile Ninja",{E} UNIT,"[ENT] You may return one of your unit to your hand. If you do, this deals 4 damage to one unit.\n[ACT] [(1)]: Return this unit to it’s owner’s hand if it’s activated."
+1-095,Hannibal Barca,{E} UNIT,<<HASTE>> (This can attack in the turn that comes into the battlefield.)\n[CB] This deals 4 damage to one unit.
+1-096,"Liselotte, the Storm Caller",{E} UNIT,"[AUTO] Whenever your another unit enters the battlefield, it gains +3/+3.\n[CB] This deals 3 damage to one unit."
+1-097,"Luum, the Phantom Commander",{E} UNIT,[Defeat] Put one Dragon token into the battlefield.\n[CB] Put one Dragon token into the battlefield.
+1-098,Minamoto no Yoshitsune,{E} UNIT,<<HASTE>> (This can attack in the turn that comes into the battlefield.)\n[ENT} [SYNC (P)]: This gains +2/+2.
+1-099,"Xecupear, the Leader of Storm",{E} UNIT,"<<HASTE>>\n[ENT] If it’s your main phase, Gain control of an enemy non-{L} unit. Activate it, and it gains <<HASTE>>.\n(Return it to the opponent at the end of the turn.)"
+1-100,"Yels, the Dragoon",{E} UNIT,<<HASTE>>\n[ATK] This deals damage equal to the number of your CA1 units in the battlefield to an enemy unit.\n[CB] Put one Dragon token into the battlefield.
+1-101,Lu Bu,{E} UNIT,<<BRAVERY>> (This attacks without exhausting itself.)\n<<HASTE>> (This can attack in the turn that comes into the battlefield.)
+1-102,Dragon Rider of Vegga,{N} UNIT,[ENT] One enemy unit cannot block units.\n[CB] Draw one card.
+1-103,Wind Reader,{N} UNIT,"[DRAFT] At the beginning of the game, you may put this onto your chronoglyph as a bookmark. (You may have up to one bookmark on your chronoglyph.)\n[BOOKMARK] You begin the game playing first. (If your opponent has the same bookmark, both cancel each other.)"
+1-104,Crimson Shuriken Shooter,{N} UNIT,[ENT] <<JUDGE>>: This deals 4 damage to an opponent.
+1-105,Thunder Spirit,{N} UNIT,<<HASTE>> (This can attack in the turn that comes into the battlefield.)
+1-106,Wind Blade Wielder of Swant,{N} UNIT,"<<HASTE>>\n[ATK] If you have another unit with <<HASTE>>, this deals 2 damage to an enemy unit."
+1-107,Wind of Zephyron,{N} UNIT,[ENT] One unit gains +3/+0.
+1-108,Initiate of Thunder God,{N} UNIT,[ENT] This deals 2 damage to an enemy unit.\n[CB] Draw one card.
+1-109,Flame Tactics,{L} SPELL,Activate an unit. It can attack again.
+1-110,Flame Ward of Su=A,{L} SPELL,This deals 4 damage to each of up to two units.\n[CB] This deals 4 damage to one unit.
+1-111,Basking the Purple Sun,{L} SPELL,"[ENT] If it’s your main phase, Gain control of up to two enemy non-{L} unit. Activate them, and they gains <<HASTE>>.\n(Return them to the opponent at the end of the turn.)\n[CB] Put this into your hand."
+1-112,Blending Thunder Powder,{L} SPELL,"This deals 6 damage to one unit. Then, this deals 2 damage to each of enemy units."
+1-113,Council of Vegga,{E} SPELL,"Choose one; [SYNC (P)]: Instead, choose up to two.\n* This deals 4 damage to one unit.\n* One unit gains +4/+0.\n* One unit cannot block units.\n* Draw one card."
+1-114,Flame Shot,{E} SPELL,This deals 4 damage to an opponent or one unit.
+1-115,Charring Cursed Fire,{E} SPELL,"<<MILESTONE>> (If you play a spell with <<MILESTONE>> and would put it into your grave, put it into your CA zone instead.)\nThis deals 5 damage to one unit."
+1-116,Blitzkrieg,{E} SPELL,"Draw one card. Then you may discard one unit card. If you do, this deals damage equal to the ATK of the card to one unit."
+1-117,Roaring Thunder Strike,{E} SPELL,This deals 6 damage to one unit.\n<<JUDGE>> This deals 3 damage to one unit.
+1-118,Thunder Shot,{N} SPELL,This deals 3 damage divided as you choose among any number of units.
+1-119,Raining Wind Blades,{N} SPELL,"One attacking unit gains +2/+2. If it has <<HASTE>>, draw one card."
+1-120,Storm of Thunder Spirit,{N} SPELL,"This deals 3 damage to one unit. For each spell card in your grave, this deals additional 1 damage.\n[CB] This deals 4 damage to one unit."
+1-121,"Dallos, the God of Probability",{L} UNIT,[ENT] Put up to three non-{L} unit cards in your grave into the battlefield .\n[CB] Put this into your hand.
+1-122,"Argor, the Archmage of Requiem",{L} UNIT,"<<VIGOR>>\n[AUTO] Whenever you gain life, this deals equal damage to an opponent.\n[CB] Enemy units gains -3/-3."
+1-123,"Menisma, the Dream Undertaker",{L} UNIT,<<VIGOR>> <<AURA>>\n[ENT] Your opponent reveal cards in their hand and you choose one of them. They discard it. This deals X damage to an opponent. You gain X life. X is equal to the number of (B) unit cards in your grave.
+1-124,Vlad Tepes,{E} UNIT,"<<VIGOR>> (Whenever this deals attacking damage, you gain that much life.)\n<<AURA>> (Unit with <<AURA>> cannot be blocked by a unit without <<AURA>>.)\n[CB] This deals 3 damage to you. Draw one card."
+1-125,"Illugangue, the Plague Beast",{E} UNIT,"The cost to play this card becomes (0) if you have been dealt any damage.\n<<VIGOR>> (Whenever this deals attacking damage, you gain that much life.)"
+1-126,"Buldur, the Blood General",{E} UNIT,[ENT] <<JUDGE>>: Put one non-{L} unit card in your grave into the battlefield.
+1-127,"Gai Va Num, the Ebony Prince",{E} UNIT,"[CONT] In your turn, your opponent’s cannot play spells.\n[RETREAT] You may return this unit its owner’s your hand. If you do, this deals 3 damage to you."
+1-128,"Rajoe, the Treasure Seeker",{E} UNIT,"(B)［SYNC (B)］： An opponent discard one card.\n[ATK] This cannot be blocked if an opponent has one or less cards in their hand..\n[AUTO] Whenever this unit deals damage to an opponent, draw one card."
+1-129,"Nothfiza, the Dark Priestess",{E} UNIT,"[ENT] <<JUDGE>>: This deals 2 damage to each opponent.\n[CONT] Your <<JUDGE>> triggers twice. (After resolving <<JUDGE>>, resolve <<JUDGE>> and its effect again.)"
+1-130,"Melanda, the Dream Caller",{E} UNIT,<<VIGOR>>\n[CONT] Your other units with <<VIGOR>> gain +1/+1.\n[CB] Put one unit card in your grave with <<VIGOR>> into your hand.
+1-131,"Milliza, the Vampire of Roses",{E} UNIT,<<VIGOR>> <<AURA>>\n[ENT] This deals 3 damage to an enemy unit. You gain 3 life.\n[CB] This deals 3 damage to you. Draw one card.
+1-132,"Velfalla, the Princess of Wailers",{E} UNIT,"[AUTO] Whenever your another nontoken unit in the battlefield is put into a grave, put one Zombie token into the battlefield.\n[CONT] Your Zombie units gain <<VIGOR>>."
+1-133,"Vizall, the Prince of Wailers",{E} UNIT,"[ENT] If you have two or more Zombie tokens in the battlefield, put an enemy non-{L} unit to the bottom of its owner’s deck. Otherwise, put one Zombie token into the battlefield.\n[CB] Put one Zombie token into the battlefield."
+1-134,Bastet,{E} UNIT,"[ATK] You may sacrifice one unit or a bookmark. If you do, this gains +3/+3."
+1-135,Pan Jinlian,{E} UNIT,[DEV] Destroy one non-{L} enemy unit.
+1-136,Merlin,{E} UNIT,[DEV]: This deals 3 damage to each opponent.\n[RETREAT] Put one spell card in your grave into your hand.
+1-137,"Zestar, the Apostate Knight",{E} UNIT,"<<HASTE>>\n[AUTO] Whenever your another nontoken black unit enters the battlefield, this deals 1 damage to each opponent..\n[ATK] If an opponent life is 10 or less, enemy units gain -2/-2."
+1-138,"Dwell Garg, the Star Destroyer",{E} UNIT,<<BREACH>><<AURA>>\n[ENT] This deals 6 damage to you.\n[SYNC (B)(B)]: You gain 6 life.
+1-139,Medea,{E} UNIT,[ENT] Sacrifice one unit.. Each opponent sacrifices one non-{N} unit.\n[CB] Put one Zombie token into the battlefield.
+1-140,"Vaya, the Dark Omniscience",{E} UNIT,"[ENT] You may play one non-{L} spell card in your grave without paying its cost.\n[AUTO] Whenever you play a spell, you may draw one card.. If you do, this deals 2 damage to you.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color."
+1-141,"Brokinaket, the Dream Wielder",{E} UNIT,You may sacrifice three units rather than paying (1) to play this card.\n[ENT] One enemy unit gains -3/-3 for each of your unit that has been put into a grave this turn.
+1-142,Skeltons of Massacre Forest,{N} UNIT,[ENT] One enemy unit gains -1/-1.
+1-143,Legion of Ghouls,{N} UNIT,"<<VIGOR>> (Whenever this deals attacking damage, you gain that much life.)\n[RETREAT] Put one Zombie token into the battlefield."
+1-144,Excommunicated Othelotte,{N} UNIT,[ENT] Destroy one enemy {N} unit.\n[CB] Destroy one {N} unit.
+1-145,Carrion Goliath,{N} UNIT,[ENT] This deals 3 damage to you.
+1-146,Blood Trader,{N} UNIT,"[DRAFT] At the beginning of the game, you may put this onto your chronoglyph as a bookmark. (You may have up to one bookmark on your chronoglyph.)\n[BOOKMARK] You may play a card in your hand reducing its CA cost by 2. If you do, this deals 5 damage to you and you sacrifice this bookmark."
+1-147,Demonic Berserker,{N} UNIT,"[AUTO] Whenever this takes damage, this deals equal amount of damage to you.\n[ATK] This gains <<AURA>>"
+1-148,Child of Night and Blood,{N} UNIT,"<<VIGOR>>\n[ATK] If you have another unit with <<VIGOR>>, this cannot be blocked by units."
+1-149,Summon Abomination,{L} SPELL,Put one non-{L} unit card in your grave into the battlefield .
+1-150,Doom Caller’s Exorcise,{L} SPELL,Draw two cards. This deals 3 damage to you.
+1-151,In the Right Time,{L} SPELL,An opponent discard one card and sacrifices one unit. This deals 3 damage to them. You draw one card and put one unit card in your grave into your hand. You gain 3 life.\n[CB] Put this into your hand.
+1-152,Dark Alter of Rovos,{L} SPELL,Destroy one {L} or {E} unit. Put X Zombie tokens into the battlefield. X is equal to CA of the destroyed unit.
+1-153,Soul Eating,{E} SPELL,Destroy one {L} or {E} unit.\n<<JUDGE>>: You gain life equal to the unit’s ATK.
+1-154,Vampirism,{E} SPELL,Choose one;\n* This deals 3 damage to one opponent. You gain 3 life.\n* Draw two cards.
+1-155,Cost of Curse,{E} SPELL,One unit gains -7/-7. This deals 5 damage to you.\n[CB] One unit gains -5/-5. This deals 5 damage to you.
+1-156,Blade of Demon Blood,{E} SPELL,Destroy one unit.
+1-157,Council of Melledus,{E} SPELL,"Choose one; [SYNC (B)]: Instead, choose up to two.\n* One unit gains -3/-3.\n* Put one unit card in your grave into your hand.\n* Destroy one {N} unit.\n* Draw one card."
+1-158,Irresistible Plague,{N} SPELL,"One unit gains -2/-2. When it’s put into a grave this turn, put one Zombie token into the battlefield."
+1-159,Balance of Life and Death,{N} SPELL,"Sacrifice one unit.. If you do, an opponent sacrifice one unit."
+1-160,Death Curse,{N} SPELL,Destroy one {N} unit.\n[CB] This deals 3 damage to you. Draw one card.
+1-161,"Valnica, the Queen of Ice",{L} UNIT,[ENT] exhaust all enemy units. Each enemy unit doesn’t activate in each opponent’s next active phase.\n[CB] exhaust all enemy units.
+1-162,"Delnard, the Sword of Oceans",{L} UNIT,"<<AURA>>\n[AUTO] Whenever one of your unit deals damage to an opponent, draw one card."
+1-163,"Izuruha, the Azure Goddess",{L} UNIT,"<<AURA>>\n[ENT] exhaust one unit..\n[AUTO] Whenever this unit deals damage to an opponent, this deals 7 damage to an opponent’s exhaustd unit.\n[CB] Put this into your hand."
+1-164,"Mifune, the Sea General",{E} UNIT,[DEV] Choose a color. Your units with that color gain <<AURA>>.\n[RETREAT] Draw one card.
+1-165,"Einherth, the Ocean Behemoth",{E} UNIT,The cost to play this card becomes (0) if you have drawn three or more cards this turn.\n<<AURA>> (Unit with <<AURA>> cannot be blocked by a unit without <<AURA>>.)
+1-166,"Nadeur, the Holy Aquamancer",{E} UNIT,[ENT] Put one Clayta token into the battlefield.\n<<JUDGE>>: This deals 2 damage for each of your Crayta token to an opponent’s exhaustd unit.
+1-167,"Amissy, the Princess of Gust",{E} UNIT,"<<AURA>>\n[ENT] [SYNC (U)(U)] exhaust each opponent’s chronoglyph.\n[AUTO] Whenever this unit become exhaustd, exhaust an enemy unit.\n[CB] exhaust one unit.."
+1-168,"Asuka, the Illusion Swordmaster",{E} UNIT,<<AURA>>\n[ENT} [SYNC (R)]: This gains +3/+3.\n[SYNC (P)]: This gains <<HASTE>>\n[CB] Draw one card.
+1-169,"Izuruha, the Guardian of Emperor",{E} UNIT,<<AURA>>\n[ENT] Destroy one enemy exhaustd unit.\n[CB] Draw one card.
+1-170,"Sa'’ala, the Blue Dracomancer",{E} UNIT,"[ATK] This gains +1/+1 for each of your Clayta token.\n[AUTO] Whenever this unit deals damage to an opponent, put two Clayta token into the battlefield."
+1-171,"Noza Sula, the Polar Wind",{E} UNIT,[CONT] Your [CB] triggers twice.\n[CB] Put one card in your grave with [CB] into your hand.
+1-172,"Mishuka, the Commander of Ice",{E} UNIT,[CONT] Cards in your hand gain [QUICK].
+1-173,"Karna, the Beautiful Swordmaster",{E} UNIT,<<AURA>>\n[CONT] Your other units with <<AURA>> gain +1/+1.\n[CB] Put one unit card in your grave with <<AURA>> into your hand.
+1-174,"Yuen, the Spellcaster of Moon",{E} UNIT,"[AUTO] Whenever your unit with [QUICK] is put into the battlefield in your main phase, exhaust an enemy unit.\n[CB] Put one unit card in your grave with [QUICK] into your hand."
+1-175,"En Ha, the Oracle of Waves",{E} UNIT,"[ENT]: You may put one card in your CA zone onto top of your deck. If you do, chronocheck 1.\n[DRAFT][CHRONOFORM] Next four cards you pick share the same color."
+1-176,"Famm, the Long-Eared Illusionist",{E} UNIT,<<AURA>>\n[ENT] Put one Clayta token into the battlefield.\n[ACT][(0)] One Clayta token gains +5/+5. This ability can be played only in your main phase and once per turn.
+1-177,"Gustalf, the Lord of Ice Realm",{E} UNIT,<<HASTE>> (This can attack in the turn that comes into the battlefield.)\n<<AURA>> (Unit with <<AURA>> cannot be blocked by a unit without <<AURA>>.)
+1-178,"Nesphere, the Deep Sea Princess",{E} UNIT,"[ACT][(1)] Put two Clayta tokens into the battlefield. Then, if you have five or more (U) units in the battlefield, you may put this onto your chronoglyph as a bookmark.\n[BOOKMARK]: Your Clayta tokens gain +2/+0 and <<AURA>>."
+1-179,"Setsura, the Daughter of Yo",{E} UNIT,[ENT][SYNC (U)]: Draw two cards.
+1-180,"Machina, the Spiritual Chemist",{E} UNIT,[DEV] You may return one non-{L} unit to its owner’s hand.
+1-181,Leonardo da Vinci,{E} UNIT,[ENT] You may return one non-{L} unit to its owner’s hand.
+1-182,Freezing Spirit,{N} UNIT,<<AURA>>\n[ENT] exhaust an enemy unit..\n[CB] Draw one card.
+1-183,Helneb’s Illusion,{N} UNIT,[ENT] Put one Clayta token into the battlefield.\n[ACTIVATE] Sacrifice one Clayta token: One unit gains <<AURA>>.
+1-184,Blue Scale Rogue,{N} UNIT,<<AURA>> (Unit with <<AURA>> cannot be blocked by a unit without <<AURA>>.)
+1-185,Sleeping Cat of Topoca,{N} UNIT,"[DRAFT] At the beginning of the game, you may put this onto your chronoglyph as a bookmark. (You may have up to one bookmark on your chronoglyph.)\n[BOOKMARK] You may redraw your initial hand up to twice."
+1-186,Sage of Majulla Sea,{N} UNIT,[ENT] You may put one card in your grave with [CB] onto top of your deck.
+1-187,Little Witch of Mystica,{N} UNIT,"[ENT] Put one Clayta token into the battlefield.\n[ACTIVATE][(1)], Sacrifice one Clayta token: Draw two cards.\n[CB] Put one Clayta token into the battlefield."
+1-188,Samurai Oracle,{N} UNIT,"<<AURA>>\n[ATK] If you have another unit with <<AURA>>, exhaust one unit.\n[CB] One unit gains <<AURA>>."
+1-189,Maelstrom of Einherth,{L} SPELL,[CB] exhaust all enemy units.
+1-190,Shine of Blue Sun,{L} SPELL,Return up to three units to their owner’s hand..\n[CB] Put this into your hand.
+1-191,Archmagic of Water,{L} SPELL,Return one exhaustd unit to its owner’s hand. Put X Clayta tokens into the battlefield. X is equal to CA of the returned unit.\n[CB] Put one non-{L} unit card in your hand into the battlefield.
+1-192,Hidden Path of Sages,{L} SPELL,"Put one non-{L} unit card in your hand into the battlefield. If it has <<AURA>>, draw one card."
+1-193,Ancient Knowledge,{E} SPELL,Draw two cards. Put one Clayta token into the battlefield.
+1-194,Celestial Knowledge,{E} SPELL,"Draw two cards. Then you may put one card in your hand onto top of your deck. If you do, chronocheck 1."
+1-195,Polar Gale,{E} SPELL,Return one non-{L} unit to its owner’s hand. Draw one card.\n[CB] Put one non-{L} unit card in your hand into the battlefield.
+1-196,Return of Souls,{E} SPELL,"<<MILESTONE>> (If you play a spell with <<MILESTONE>> and would put it into your grave, put it into your CA zone instead.)\nReturn one unit to its owner’s hand."
+1-197,Council of Mystica,{E} SPELL,"Choose one; [SYNC (U)]: Instead, choose up to two.\n* Return one exhaustd unit to it’s owner’s hand..\n* One unit gains <<AURA>>.\n* exhaust one unit..\n* Draw one card."
+1-198,Blue Onslaught,{N} SPELL,One unit gains +1/+1 and <<AURA>>.
+1-199,Aqua Shot,{N} SPELL,This deals 4 damage to one exhaustd unit. This damage is increased by 1 for each of your Clayta token.
+1-200,Freeze,{N} SPELL,exhaust one enemy unit.. Each enemy unit doesn’t activate in each opponent’s next active phase.\n[CB] exhaust one unit.
+1-201,"Gozz Omm, the Destroyer of History",{L} UNIT,"This card can be played from your CA zone as if it is in your hand.
+[ENT] Chronocheck 1. Destroy all unit with the same CA value as the Chronocheck-ed card.
+[ACT] Put 1 card in your CA zone to your discard pile: This gains one of <<BRAVERY>>/<<BREACH>>/<<HASTE>>/<<VIGOR>>/<<AURA>>."
+1-005CR,Athena,{E} {CHRONO} UNIT,<<BRAVERY>> <<VIGOR>>\n[CONT] CA of your cards are 3.\n[ATK] This gains +1/+1 for each of CA 3 card in your CA zone.
+1-061CR,"Shackt, the Channeling Oracle",{E} {CHRONO} UNIT,"[CONT] While this unit is exhaustd, your other units gain +1/+1.\n[AUTO] Whenever your another unit enters the battlefield, you may exhaust this unit if it’s activated. If you do, Draw one card.\n[CB] Put this into the battlefield."
+1-088CR,"Yaksh, the One Who Stake All",{E} {CHRONO} UNIT,[ENT] This deals 7 damage to one unit.\n[CONT] The card revealed by <<JUDGE>> has +2 CA.\n[CB] <<JUDGE>> This deals 7 damage to one unit.
+1-140CR,"Vaya, the Dark Omniscience",{E} {CHRONO} UNIT,"[ENT] You may play one spell card in your grave without paying its cost.\n[AUTO] Whenever you play a spell, you may draw one card..\n[CB] Resolve effects on one non-{L} spell card in your grave without paying its cost."
+1-175CR,"En Ha, the Oracle of Waves",{E} {CHRONO} UNIT,[ENT]: You may put up to three cards in your CA zone onto top of your deck in any order. Then chronocheck X. X is equal to the number of cards put on top in this way.\n[CB] Draw three cards. Then put two cards in your hand onto top of your deck in any order.
+T-001,Knight,{N} TOKEN UNIT,\n\n\n
+T-002,Bear,{N} TOKEN UNIT,\n\n\n
+T-003,Dragon,{N} TOKEN UNIT,\n\n\n
+T-004,Zombie,{N} TOKEN UNIT,\n\n\n
+T-005,Clayta,{N} TOKEN UNIT,[CONT] This cannot block.

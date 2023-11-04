@@ -1,0 +1,25 @@
+title:
+  x: 0.37in
+  y: 0.7in
+  width: 1.75in
+  height: 0.35in
+  font: Arial 9
+  align: center
+  markup: false
+text:
+  x: 0.02in
+  y: 0in
+  font: Arial 7
+  width: 2.46in
+  height: 0.7in
+  wrap: :word
+  align: left
+  markup: true
+atk_box:
+  x: 0in
+  y: 0.7in
+  width: 0.37in
+  height: 0.35in
+def_box:
+  extends: atk_box
+  x: 2.13in
