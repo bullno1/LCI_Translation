@@ -46,6 +46,8 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
   text str: data['title'], layout: "title"
   rect layout: "title"
 
+  text str: data['id'], layout: "id"
+
   text str: data['text'], layout: "text" do |embed|
     embed.png key: "{L}", file: "images/legacy.png", dy: -20, width: 28
   end

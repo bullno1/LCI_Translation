@@ -6,6 +6,10 @@ title:
   font: Arial 9
   align: center
   markup: false
+id:
+  extends: title
+  font: Arial 5
+  valign: bottom
 text:
   x: 0.02in
   y: 0in
