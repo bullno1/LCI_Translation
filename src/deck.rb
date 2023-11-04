@@ -52,7 +52,23 @@ end
 Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
   use_layout file: "layouts/textbox.yml"
 
-  text str: data['title'], layout: "title"
+  formatted_title = data['title'].map.with_index do |value,index|
+    color = data['color'][index]
+    if color != 'WILD'
+      "{#{color}} #{value}"
+    else
+      value
+    end
+  end
+
+  text str: formatted_title, layout: "title" do |embed|
+    embed.png key: "{WHITE}", file: "images/white.png", dy: -24, width: 20
+    embed.png key: "{PURPLE}", file: "images/purple.png", dy: -24, width: 20
+    embed.png key: "{ORANGE}", file: "images/orange.png", dy: -24, width: 20
+    embed.png key: "{BLACK}", file: "images/black.png", dy: -24, width: 20
+    embed.png key: "{BLUE}", file: "images/white.png", dy: -24, width: 20
+  end
+
   rect layout: "title"
 
   text str: data['id'], layout: "id"
@@ -65,7 +81,7 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
     embed.png key: "(P)", file: "images/purple.png", dy: -20, width: 20
     embed.png key: "(R)", file: "images/orange.png", dy: -20, width: 20
     embed.png key: "(B)", file: "images/black.png", dy: -20, width: 20
-    embed.png key: "(U)", file: "images/white.png", dy: -20, width: 20
+    embed.png key: "(U)", file: "images/blue.png", dy: -20, width: 20
   end
 
   # Carve out space for atk and def
