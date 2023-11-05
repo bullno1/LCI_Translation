@@ -35,10 +35,12 @@ data = Squib.csv file: 'data/set1.csv' do |header, value|
     end
 
     # Ability
-    value.gsub! /\[([A-Z]+)\]/ do |s|
+    value.gsub! /\[([A-Z\(\) ]+)\]/ do |s|
       name = $1
       if ABILITY_COLORS.key?(name)
         "<span background='\##{ABILITY_COLORS[name]}' foreground='white' size='small'> #{name} </span>"
+      elsif name.start_with?("SYNC")
+        "<small>[#{name}]</small>"
       else
         "<small>#{name}</small>"
       end
