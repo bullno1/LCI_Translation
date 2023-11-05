@@ -13,12 +13,13 @@ id:
 text:
   x: 0.02in
   y: 0in
-  font: Arial 7
+  font: Arial 8
   width: 2.46in
   height: 0.7in
   wrap: :word
   align: left
   markup: true
+  ellipsize: :autoscale
 atk_box:
   x: 0in
   y: 0.7in
