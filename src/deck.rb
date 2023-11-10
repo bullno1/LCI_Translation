@@ -68,7 +68,7 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
     embed.png key: "{PURPLE}", file: "images/purple.png", dy: -30, height: 30, width: 30
     embed.png key: "{ORANGE}", file: "images/orange.png", dy: -30, height: 30, width: 30
     embed.png key: "{BLACK}", file: "images/black.png", dy: -30, height: 30, width: 30
-    embed.png key: "{BLUE}", file: "images/white.png", dy: -30, height: 30, width: 30
+    embed.png key: "{BLUE}", file: "images/blue.png", dy: -30, height: 30, width: 30
   end
 
   rect layout: "title"
@@ -90,5 +90,5 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
   rect layout: "atk_box"
   rect layout: "def_box"
 
-  save_pdf sprue: "layouts/textbox_sprue.yml", file: "sprue.pdf"
+  save_pdf sprue: "layouts/textbox_sprue.yml", file: "set1.pdf"
 end
