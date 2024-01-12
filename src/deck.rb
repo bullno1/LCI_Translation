@@ -53,6 +53,8 @@ end
 
 Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
   use_layout file: "layouts/textbox.yml"
+  unit_range = data["type"].each_index.select { |i| data["type"][i].end_with?("UNIT") }
+  spell_range = data["type"].each_index.select { |i| data["type"][i].end_with?("SPELL") }
 
   formatted_title = data['title'].map.with_index do |value,index|
     color = data['color'][index]
@@ -71,7 +73,8 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
     embed.png key: "{BLUE}", file: "images/blue.png", dy: -30, height: 30, width: 30
   end
 
-  rect layout: "title"
+  rect range: unit_range, layout: "title"
+  rect range: spell_range, layout: "spell_title"
 
   text str: data['id'], layout: "id"
 
@@ -87,8 +90,8 @@ Squib::Deck.new(cards: data['id'].size, width: '2.5in', height: '1.05in') do
   end
 
   # Carve out space for atk and def
-  rect layout: "atk_box"
-  rect layout: "def_box"
+  rect range: unit_range, layout: "atk_box"
+  rect range: unit_range, layout: "def_box"
 
   save_pdf sprue: "layouts/textbox_sprue.yml", file: "set1.pdf"
 end

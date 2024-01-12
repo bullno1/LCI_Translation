@@ -6,6 +6,10 @@ title:
   font: Arial 9
   align: center
   markup: false
+spell_title:
+  extends: title
+  x: -0.37in
+  width: += 1.11in
 id:
   extends: title
   font: Arial 5
