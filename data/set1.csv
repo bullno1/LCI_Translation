@@ -42,7 +42,7 @@ id,title,color,type,text
 1-021,"Jin=Eh, the Grand Carpenter",WHITE,{E} UNIT,"<<BRAVERY>>
 [ENT] You may trigger a [DEV] ability on one of your units.
 [CB] You may trigger a [DEV] ability on one of your units."
-1-022,Holy Enchanter of Abissa,WHITE,{N} UNIT,"[ENT] Activate up to 2 units.
+1-022,Holy Enchanter of Abissa,WHITE,{N} UNIT,"[ENT] Unexhaust up to 2 units.
 [CB] <<JUDGE>>: Draw 1 card."
 1-023,Angel of Knighthood,WHITE,{N} UNIT,[ENT] <<JUDGE>>: Draw one card.
 1-024,Illuminated Cavalry,WHITE,{N} UNIT,<<BRAVERY>>
@@ -100,7 +100,7 @@ Chronocheck 1.
 1-051,"Yonaty, the Oracle of the Forest",ORANGE,{E} UNIT,"[ENT] Chronocheck 1. If a unit is put into your CA zone in this way, draw one card.
 [ACT] (1): Put one unit in your CA zone into your hand."
 1-052,"Celty, the Princess of the Forest",ORANGE,{E} UNIT,[ENT] Put a non-{L} unit in your CA zone into the battlefield exhausted.
-1-053,"Nene, the Flosomancer",ORANGE,{E} UNIT,[ACT] Put one card in your CA zone into your grave: Activate your chronoglyph. This ability can be played only in your main phase and once per turn.\n[CB] Put this into the battlefield.
+1-053,"Nene, the Flosomancer",ORANGE,{E} UNIT,[ACT] Put one card in your CA zone into your grave: Unexhaust your chronoglyph. This ability can be played only in your main phase and once per turn.\n[CB] Put this into the battlefield.
 1-054,"Gamradu, the Raging Beast.",ORANGE,{E} UNIT,"If you attacked with 2 or more units this turn, the cost to play this card becomes 0.
 [ENT] Destroy an enemy non-{L} unit with <<AURA>>."
 1-055,"Rono Gadar, the Bloodlust Alpha",ORANGE,{E} UNIT,"[RETREAT] You may put this onto your chronoglyph as a bookmark.
