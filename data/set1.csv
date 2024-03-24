@@ -121,7 +121,7 @@ Chronocheck 1.
 [SYNC (U)]: Draw one card."
 1-061,"Shackt, the Channeling Oracle",ORANGE,{E} UNIT,"[AUTO] Whenever one of your other units enters the battlefield, you may exhaust this unit.
 If you do, Draw one card.
-[DRAFT] [CHRONOFORM]"
+[DRAFT] [CHRONOFORM] The next 4 cards you pick share the same color."
 1-062,Crimson Dragon Swarm,ORANGE,{N} UNIT,"<<BREACH>>
 [ATK] If you have another unit with <<BREACH>>, put one Bear token into the battlefield."
 1-063,Master of the Fist,ORANGE,{N} UNIT,"[ENT] One unit gains +1/+1.
@@ -180,7 +180,7 @@ Put a non-{L} unit in your CA zone into the battlefield."
 [CB] Put 1 spell in your discard pile into your hand."
 1-088,"Yaksh, the One Who Stake All",PURPLE,{E} UNIT,"[ENT] <<JUDGE>> Deal 5 damage to a unit.
 [CONT] Each card revealed for your <<JUDGE>> has its CA value increased by 1.
-[DRAFT] [CHRONOFORM]"
+[DRAFT] [CHRONOFORM] The next 4 cards you pick share the same color."
 1-089,"Floosht, the Lightning General",PURPLE,{E} UNIT,"<<BRAVERY>>
 [CONT] This can attack twice each turn.
 [CB] Draw 1 card."
@@ -287,7 +287,7 @@ If you do, deal damage equal to the ATK of the discarded card to a unit."
 [CB] Put 1 Zombie token into the battlefield."
 1-140,"Vaya, the Dark Omniscience",BLACK,{E} UNIT,"[ENT] You may play one non-{L} spell in your discard pile without paying its cost.
 [AUTO] Whenever you play a spell, you may draw one card. If you do, take 2 damage.
-[DRAFT][CHRONOFORM]"
+[DRAFT][CHRONOFORM] The next 4 cards you pick share the same color."
 1-141,"Brokinaket, the Dream Wielder",BLACK,{E} UNIT,"You may sacrifice 3 units instead of paying (1) to play this card.
 [ENT] Target one enemy unit, it gains -3/-3 for each of your unit that has been discarded from the battlefield this turn."
 1-142,Skeltons of Massacre Forest,BLACK,{N} UNIT,[ENT] One enemy unit gains -1/-1.
@@ -361,7 +361,7 @@ Put X Zombie tokens into the battlefield. (X = CA value of the destroyed unit)."
 1-174,"Yuen, the Spellcaster of Moon",BLUE,{E} UNIT,"[AUTO] Whenever one of your units with <<QUICK>> is put into the battlefield in your main phase, exhaust an enemy unit.
 [CB] Put one unit in your discard pile with <<QUICK>> into your hand."
 1-175,"En Ha, the Oracle of Waves",BLUE,{E} UNIT,"[ENT]: You may put one card in your CA zone onto top of your deck. If you do, chronocheck 1.
-[DRAFT] [CHRONOFORM]"
+[DRAFT] [CHRONOFORM] The next 4 cards you pick share the same color."
 1-176,"Famm, the Long-Eared Illusionist",BLUE,{E} UNIT,"<<AURA>>
 [ENT] Put 1 Clayta token into the battlefield.
 [ACT] (0): One Clayta token gains +5/+5. This ability can be played only in your main phase and once per turn."
