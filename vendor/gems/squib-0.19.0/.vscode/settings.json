@@ -1,0 +1,5 @@
+{
+  "restructuredtext.confPath": "${workspaceFolder}\\docs",
+  "restructuredtext.linter.disabled": true,
+  "esbonio.sphinx.confDir": "${workspaceFolder}\\docs"
+}
